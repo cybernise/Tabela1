@@ -1,6 +1,7 @@
 table {
     width: 40%;
     border-collapse: collapse;
+    margin: auto;
   }
 
   h1{ text-align: center;
@@ -57,7 +58,7 @@ table {
   }
 
   .inter{
-    background-color: aliceblue;
+    background-color: rgb(255, 236, 236);
     padding: 1px;
     font-size: 9px;
 
