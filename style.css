@@ -2,17 +2,21 @@ table {
     width: 40%;
     border-collapse: collapse;
   }
+
+  h1{ text-align: center;
+
+  }
   
   th, td {
     border: 2px solid black;
     padding: 7px;
-    text-align: center;
     font-size: 16px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: center;
   }
   
   .semana {
-    background-color: #727272;
+    background-color: #919191;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
@@ -21,16 +25,26 @@ table {
     padding: 2px;
   }
   
-  .manha{
-        background-color: rgb(145,  145, 145);
+  .turno{
+        background-color: rgb(170, 170, 170);
+        padding: 2px;
+        font-size: 14px;
   }
   
-  .m1 {
+  .m {
     background-color: rgb(122, 122, 122);
     color: rgb(252, 252, 252);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 1px;
   }
+
+  .t {
+    background-color: rgb(122, 122, 122);
+    color: rgb(252, 252, 252);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 1px;
+  }
+  
   
   .horas {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -40,4 +54,12 @@ table {
   .time {
     padding: 1px;
     font-size: 16px;
+  }
+
+  .inter{
+    background-color: aliceblue;
+    padding: 1px;
+    font-size: 9px;
+
+
   }
