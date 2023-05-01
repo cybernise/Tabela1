@@ -1,0 +1,43 @@
+table {
+    width: 40%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 2px solid black;
+    padding: 7px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .semana {
+    background-color: #727272;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .ed {
+    padding: 2px;
+  }
+  
+  .manha{
+        background-color: rgb(145,  145, 145);
+  }
+  
+  .m1 {
+    background-color: rgb(122, 122, 122);
+    color: rgb(252, 252, 252);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 1px;
+  }
+  
+  .horas {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+
+  .time {
+    padding: 1px;
+    font-size: 16px;
+  }
